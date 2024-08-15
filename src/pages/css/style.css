@@ -1,0 +1,41 @@
+.row2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.row-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    width: 60vh;
+    height: 65vh;
+    padding: 30px;
+}
+
+.button1 {
+    background-color: rgb(188, 63, 199);
+    width: 100%;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.button2 {
+    background-color: rgb(62, 35, 182);
+    width: 100%;
+    font-weight: bold;
+}
+
+.input {
+    margin-bottom: 10px;
+    border: 1px solid gray;
+}
+
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+}
